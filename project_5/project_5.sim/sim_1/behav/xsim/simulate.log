@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Stopped at time : 10 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 18
+Test 1:  13 x   7 =    91
+Stopped at time : 20 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 24
+Test 2:  25 x  15 =   375
+Stopped at time : 30 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 30
+Test 3:  50 x   3 =   150
+Stopped at time : 40 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 36
+Test 4: 100 x   0 =     0
+Stopped at time : 50 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 42
+Test 5:   8 x   2 =    16
+$finish called at time : 50 ns : File "/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v" Line 45

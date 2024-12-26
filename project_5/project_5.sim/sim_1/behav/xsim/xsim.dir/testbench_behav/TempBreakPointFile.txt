@@ -1,0 +1,6 @@
+Breakpoint File Version 1.0
+18,true,"/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v"
+24,true,"/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v"
+30,true,"/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v"
+36,true,"/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v"
+42,true,"/home/sgaglani/project_5/project_5.srcs/sim_1/new/testbench.v"
